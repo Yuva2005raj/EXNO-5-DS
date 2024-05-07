@@ -1,6 +1,5 @@
 # EXNO-5-DS-DATA VISUALIZATION USING MATPLOT LIBRARY
-### NAME:YUVARAJ B
-### REG.NO: 212222230182
+
 # Aim:
   To Perform Data Visualization using matplot python library for the given datas.
 
